@@ -1,2 +1,0 @@
-untitled:Untitled-2 {"typeId":""}
-SELECT * FROM `jwt_lara8_auth_db`.`personal_access_tokens` LIMIT 1000;

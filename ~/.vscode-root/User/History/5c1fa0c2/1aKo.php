@@ -40,12 +40,12 @@ class AuthController extends Controller
         ])->withCookie($cookie);
     }
 
-    public function logout()
+    public function logout(Request $request)
     {
         $cookie = CookieCache::forget('jwt');
         return response([
             'message' => 'Success'
-        ])->withCookie($cookie);
+        ]);
     }
 
     public function user()
