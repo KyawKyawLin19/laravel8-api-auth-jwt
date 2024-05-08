@@ -1,0 +1,8 @@
+2024-05-08 22:51:34.749 [info] Started local extension host with pid 28572.
+2024-05-08 22:51:36.315 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2024-05-08 22:51:36.317 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
+2024-05-08 22:51:37.677 [info] [perf] Render performance baseline is 23ms
+2024-05-08 23:06:10.319 [error] [Extension Host] (node:28572) [DEP0126] DeprecationWarning: timers.active() is deprecated. Please use timeout.refresh() instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-05-08 23:06:10.323 [error] [Extension Host] (node:28572) [DEP0096] DeprecationWarning: timers.unenroll() is deprecated. Please use clearTimeout instead.
+2024-05-08 23:06:38.864 [error] [Extension Host] (node:28572) [DEP0095] DeprecationWarning: timers.enroll() is deprecated. Please use setTimeout instead.
