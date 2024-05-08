@@ -1,0 +1,105 @@
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+------------------------------------------
+-- Database changed : jwt_lara8_auth_db --
+------------------------------------------
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+SELECT * FROM `migrations`
+ +----+-------------------------------------------------------+-------+
+ | id | migration                                             | batch | 
+ +----+-------------------------------------------------------+-------+
+ | 1  | 2014_10_12_000000_create_users_table                  | 1     | 
+ | 2  | 2014_10_12_100000_create_password_resets_table        | 1     | 
+ | 3  | 2019_08_19_000000_create_failed_jobs_table            | 1     | 
+ | 4  | 2019_12_14_000001_create_personal_access_tokens_table | 1     | 
+ +----+-------------------------------------------------------+-------+
+SELECT * FROM `password_resets`
+Query result 0 rows!
+SELECT * FROM `password_resets`
+Query result 0 rows!
+SELECT * FROM `users`
+Query result 0 rows!
+SELECT * FROM `users`
+Query result 0 rows!
+SELECT * FROM `users`
+Query result 0 rows!
+SELECT * FROM `users`
+Query result 0 rows!
+SELECT * FROM `users`
+Query result 0 rows!
+SELECT * FROM `users`
+Query result 0 rows!
+SELECT * FROM `users`
+Query result 0 rows!
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+SELECT * FROM `failed_jobs`
+Query result 0 rows!
+SELECT * FROM `migrations`
+ +----+-------------------------------------------------------+-------+
+ | id | migration                                             | batch | 
+ +----+-------------------------------------------------------+-------+
+ | 1  | 2014_10_12_000000_create_users_table                  | 1     | 
+ | 2  | 2014_10_12_100000_create_password_resets_table        | 1     | 
+ | 3  | 2019_08_19_000000_create_failed_jobs_table            | 1     | 
+ | 4  | 2019_12_14_000001_create_personal_access_tokens_table | 1     | 
+ +----+-------------------------------------------------------+-------+
+SELECT * FROM `migrations`
+ +----+-------------------------------------------------------+-------+
+ | id | migration                                             | batch | 
+ +----+-------------------------------------------------------+-------+
+ | 1  | 2014_10_12_000000_create_users_table                  | 1     | 
+ | 2  | 2014_10_12_100000_create_password_resets_table        | 1     | 
+ | 3  | 2019_08_19_000000_create_failed_jobs_table            | 1     | 
+ | 4  | 2019_12_14_000001_create_personal_access_tokens_table | 1     | 
+ +----+-------------------------------------------------------+-------+
+SELECT * FROM `password_resets`
+Query result 0 rows!
+SELECT * FROM `users`
+Query result 0 rows!
+SELECT * FROM `personal_access_tokens`
+Query result 0 rows!
+SELECT * FROM `users`
+Query result 0 rows!
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+----------------------------------
+-- Start use server : undefined --
+----------------------------------
+SELECT * FROM `users`
+Query result 0 rows!

@@ -1,0 +1,60 @@
+2024-05-08 18:31:53.212 [info] Started local extension host with pid 78538.
+2024-05-08 18:31:55.194 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2024-05-08 18:31:55.194 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
+2024-05-08 18:31:56.570 [info] [perf] Render performance baseline is 32ms
+2024-05-08 18:32:06.086 [error] [Extension Host] (node:78538) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-05-08 18:32:55.962 [error] Error: Unable to resolve filesystem provider with relative file path 'bajdzis-database-markdown://queryresult?{"message":"Query result 4 rows!","sql":"SELECT * FROM `migrations`","data":[{"id":1,"migration":"2014_10_12_000000_create_users_table","batch":1},{"id":2,"migration":"2014_10_12_100000_create_password_resets_table","batch":1},{"id":3,"migration":"2019_08_19_000000_create_failed_jobs_table","batch":1},{"id":4,"migration":"2019_12_14_000001_create_personal_access_tokens_table","batch":1}]}'
+    at s.j (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:14709)
+    at s.bb (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:26041)
+    at vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:25749
+    at s.watch (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:25818)
+    at p.$watch (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:8997)
+    at h.S (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:13952)
+    at h.Q (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:13718)
+    at h.M (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:12811)
+    at h.L (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:11890)
+    at d.value (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:10677)
+    at s.y (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at s.fire (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14507)
+    at H.onmessage (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1648:8048)
+2024-05-08 18:33:04.944 [error] Error: Unable to resolve filesystem provider with relative file path 'bajdzis-database-markdown://queryresult?{"message":"Query result 0 rows!","sql":"SELECT * FROM `users`","data":[]}'
+    at s.j (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:14709)
+    at s.bb (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:26041)
+    at vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:25749
+    at s.watch (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:25818)
+    at p.$watch (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:8997)
+    at h.S (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:13952)
+    at h.Q (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:13718)
+    at h.M (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:12811)
+    at h.L (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:11890)
+    at d.value (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:10677)
+    at s.y (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at s.fire (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14507)
+    at H.onmessage (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1648:8048)
+2024-05-08 18:33:31.665 [error] Error: Unable to resolve filesystem provider with relative file path 'bajdzis-database-markdown://queryresult?{"message":"Query result 0 rows!","sql":"SELECT * FROM `users`","data":[]}'
+    at s.j (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:14709)
+    at s.bb (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:26041)
+    at vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:25749
+    at s.watch (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:658:25818)
+    at p.$watch (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2201:8997)
+    at h.S (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:13952)
+    at h.Q (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:13718)
+    at h.M (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:12811)
+    at h.L (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:11890)
+    at d.value (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1630:10677)
+    at s.y (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at s.fire (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14507)
+    at H.onmessage (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1648:8048)
+2024-05-08 18:33:54.280 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async _ (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:19741)
+    at async ee.query (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:20039)
+    at async X.queryGallery (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2477:13663)
+    at async Me.Kc (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:23125)
+    at async Me.uc (vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/snap/code/158/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:13032

@@ -1,0 +1,430 @@
+2024-05-08 17:19:00.711 [info] Extension host with pid 72755 started
+2024-05-08 17:19:00.711 [info] Skipping acquiring lock for /home/kyawkyawlin/Laravel_Projects/personal/api/laravel8-api-auth-jwt/~/.vscode-root/User/workspaceStorage/ec4afe83256d54d3646f1743bec1ea6c.
+2024-05-08 17:19:00.862 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-05-08 17:19:00.868 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-05-08 17:19:00.913 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-08 17:19:00.980 [info] Eager extensions activated
+2024-05-08 17:19:01.127 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 17:19:01.130 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 17:19:02.908 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-05-08 17:19:02.998 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: false, activationEvent: '*'
+2024-05-08 17:19:05.590 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-05-08 17:19:05.610 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-05-08 17:19:05.707 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-08 17:19:06.123 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-05-08 17:19:26.894 [warning] [Decorations] CAPPING events from decorations provider vscode.git 252
+2024-05-08 17:19:29.611 [info] ExtensionService#_doActivateExtension shd101wyy.markdown-preview-enhanced, startup: false, activationEvent: 'onLanguage:markdown'
+2024-05-08 17:19:31.918 [warning] [Decorations] CAPPING events from decorations provider vscode.git 255
+2024-05-08 17:19:36.937 [warning] [Decorations] CAPPING events from decorations provider vscode.git 260
+2024-05-08 17:19:41.957 [warning] [Decorations] CAPPING events from decorations provider vscode.git 265
+2024-05-08 17:19:46.980 [warning] [Decorations] CAPPING events from decorations provider vscode.git 276
+2024-05-08 17:19:52.002 [warning] [Decorations] CAPPING events from decorations provider vscode.git 287
+2024-05-08 17:19:57.505 [warning] [Decorations] CAPPING events from decorations provider vscode.git 288
+2024-05-08 17:20:02.527 [warning] [Decorations] CAPPING events from decorations provider vscode.git 288
+2024-05-08 17:20:09.608 [warning] [Decorations] CAPPING events from decorations provider vscode.git 288
+2024-05-08 17:20:15.246 [warning] [Decorations] CAPPING events from decorations provider vscode.git 288
+2024-05-08 17:20:22.261 [warning] [Decorations] CAPPING events from decorations provider vscode.git 288
+2024-05-08 17:20:28.890 [warning] [Decorations] CAPPING events from decorations provider vscode.git 288
+2024-05-08 17:20:41.425 [warning] [Decorations] CAPPING events from decorations provider vscode.git 290
+2024-05-08 17:20:46.446 [warning] [Decorations] CAPPING events from decorations provider vscode.git 290
+2024-05-08 17:20:52.174 [warning] [Decorations] CAPPING events from decorations provider vscode.git 290
+2024-05-08 17:20:57.194 [warning] [Decorations] CAPPING events from decorations provider vscode.git 291
+2024-05-08 17:21:02.213 [warning] [Decorations] CAPPING events from decorations provider vscode.git 292
+2024-05-08 17:21:07.233 [warning] [Decorations] CAPPING events from decorations provider vscode.git 292
+2024-05-08 17:22:00.672 [warning] [Decorations] CAPPING events from decorations provider vscode.git 293
+2024-05-08 17:22:05.693 [warning] [Decorations] CAPPING events from decorations provider vscode.git 293
+2024-05-08 17:22:10.717 [warning] [Decorations] CAPPING events from decorations provider vscode.git 296
+2024-05-08 17:22:22.365 [warning] [Decorations] CAPPING events from decorations provider vscode.git 317
+2024-05-08 17:22:22.730 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2024-05-08 17:22:22.744 [info] ExtensionService#_doActivateExtension rifi2k.format-html-in-php, startup: false, activationEvent: 'onLanguage:php'
+2024-05-08 17:22:46.324 [warning] [Decorations] CAPPING events from decorations provider vscode.git 347
+2024-05-08 17:22:51.351 [warning] [Decorations] CAPPING events from decorations provider vscode.git 347
+2024-05-08 17:22:56.370 [warning] [Decorations] CAPPING events from decorations provider vscode.git 347
+2024-05-08 17:23:01.393 [warning] [Decorations] CAPPING events from decorations provider vscode.git 348
+2024-05-08 17:23:06.853 [warning] [Decorations] CAPPING events from decorations provider vscode.git 348
+2024-05-08 17:23:11.930 [warning] [Decorations] CAPPING events from decorations provider vscode.git 349
+2024-05-08 17:23:19.178 [warning] [Decorations] CAPPING events from decorations provider vscode.git 349
+2024-05-08 17:23:24.201 [warning] [Decorations] CAPPING events from decorations provider vscode.git 350
+2024-05-08 17:23:29.238 [warning] [Decorations] CAPPING events from decorations provider vscode.git 351
+2024-05-08 17:23:34.672 [warning] [Decorations] CAPPING events from decorations provider vscode.git 351
+2024-05-08 17:23:40.819 [warning] [Decorations] CAPPING events from decorations provider vscode.git 351
+2024-05-08 17:23:47.245 [warning] [Decorations] CAPPING events from decorations provider vscode.git 351
+2024-05-08 17:23:53.674 [warning] [Decorations] CAPPING events from decorations provider vscode.git 351
+2024-05-08 17:23:58.693 [warning] [Decorations] CAPPING events from decorations provider vscode.git 351
+2024-05-08 17:24:03.716 [warning] [Decorations] CAPPING events from decorations provider vscode.git 351
+2024-05-08 17:24:08.779 [warning] [Decorations] CAPPING events from decorations provider vscode.git 363
+2024-05-08 17:24:16.386 [warning] [Decorations] CAPPING events from decorations provider vscode.git 389
+2024-05-08 17:24:17.148 [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense, startup: false, activationEvent: 'onLanguage:php'
+2024-05-08 17:24:21.542 [warning] [Decorations] CAPPING events from decorations provider vscode.git 390
+2024-05-08 17:24:26.630 [warning] [Decorations] CAPPING events from decorations provider vscode.git 389
+2024-05-08 17:24:31.688 [warning] [Decorations] CAPPING events from decorations provider vscode.git 390
+2024-05-08 17:24:36.779 [warning] [Decorations] CAPPING events from decorations provider vscode.git 391
+2024-05-08 17:24:40.777 [error] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/api.php:17
+     13▕ | is assigned the "api" middleware group. Enjoy building your API!
+     14▕ |
+     15▕ */
+     16▕ 
+  ➜  17▕ Route::get('user', [App])
+
+      [2m+3 vendor frames [22m
+  4   app/Providers/RouteServiceProvider.php:44
+      Illuminate\Routing\RouteRegistrar::group("/home/kyawkyawlin/Laravel_Projects/personal/api/laravel8-api-auth-jwt/routes/api.php")
+
+      [2m+15 vendor frames [22m
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\RouteServiceProvider))
+
+2024-05-08 17:24:41.842 [warning] [Decorations] CAPPING events from decorations provider vscode.git 390
+2024-05-08 17:24:46.693 [error] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/api.php:17
+     13▕ | is assigned the "api" middleware group. Enjoy building your API!
+     14▕ |
+     15▕ */
+     16▕ 
+  ➜  17▕ Route::get('user', [A])
+
+      [2m+3 vendor frames [22m
+  4   app/Providers/RouteServiceProvider.php:44
+      Illuminate\Routing\RouteRegistrar::group("/home/kyawkyawlin/Laravel_Projects/personal/api/laravel8-api-auth-jwt/routes/api.php")
+
+      [2m+15 vendor frames [22m
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\RouteServiceProvider))
+
+2024-05-08 17:24:46.948 [warning] [Decorations] CAPPING events from decorations provider vscode.git 399
+2024-05-08 17:24:48.950 [info] ExtensionService#_doActivateExtension codingyu.laravel-goto-view, startup: false, activationEvent: 'onLanguage:php'
+2024-05-08 17:25:00.010 [warning] [Decorations] CAPPING events from decorations provider vscode.git 421
+2024-05-08 17:25:05.121 [warning] [Decorations] CAPPING events from decorations provider vscode.git 430
+2024-05-08 17:25:10.423 [warning] [Decorations] CAPPING events from decorations provider vscode.git 462
+2024-05-08 17:25:15.722 [warning] [Decorations] CAPPING events from decorations provider vscode.git 470
+2024-05-08 17:25:19.570 [error] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/api.php:17
+     13▕ | is assigned the "api" middleware group. Enjoy building your API!
+     14▕ |
+     15▕ */
+     16▕ 
+  ➜  17▕ Route::get('user', [A])
+
+      [2m+3 vendor frames [22m
+  4   app/Providers/RouteServiceProvider.php:44
+      Illuminate\Routing\RouteRegistrar::group("/home/kyawkyawlin/Laravel_Projects/personal/api/laravel8-api-auth-jwt/routes/api.php")
+
+      [2m+15 vendor frames [22m
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\RouteServiceProvider))
+
+2024-05-08 17:25:20.820 [warning] [Decorations] CAPPING events from decorations provider vscode.git 465
+2024-05-08 17:25:25.909 [warning] [Decorations] CAPPING events from decorations provider vscode.git 460
+2024-05-08 17:25:30.998 [warning] [Decorations] CAPPING events from decorations provider vscode.git 460
+2024-05-08 17:25:36.121 [warning] [Decorations] CAPPING events from decorations provider vscode.git 460
+2024-05-08 17:25:45.158 [info] ExtensionService#_doActivateExtension IHunte.laravel-blade-wrapper, startup: false, activationEvent: '*'
+2024-05-08 17:25:45.166 [info] ExtensionService#_doActivateExtension glitchbl.laravel-create-view, startup: false, activationEvent: 'onLanguage:php'
+2024-05-08 17:25:45.177 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: '*'
+2024-05-08 17:25:45.266 [info] ExtensionService#_doActivateExtension pgl.laravel-jump-controller, startup: false, activationEvent: 'onLanguage:php'
+2024-05-08 17:25:45.556 [info] ExtensionService#_doActivateExtension ryannaddy.laravel-artisan, startup: false, activationEvent: 'workspaceContains:**/artisan'
+2024-05-08 17:25:51.532 [warning] [Decorations] CAPPING events from decorations provider vscode.git 465
+2024-05-08 17:25:56.559 [warning] [Decorations] CAPPING events from decorations provider vscode.git 636
+2024-05-08 17:26:01.605 [warning] [Decorations] CAPPING events from decorations provider vscode.git 770
+2024-05-08 17:26:06.643 [warning] [Decorations] CAPPING events from decorations provider vscode.git 770
+2024-05-08 17:26:11.990 [warning] [Decorations] CAPPING events from decorations provider vscode.git 770
+2024-05-08 17:26:17.025 [warning] [Decorations] CAPPING events from decorations provider vscode.git 770
+2024-05-08 17:26:18.527 [error] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/api.php:17
+     13▕ | is assigned the "api" middleware group. Enjoy building your API!
+     14▕ |
+     15▕ */
+     16▕ 
+  ➜  17▕ Route::get('user', [A])
+
+      [2m+3 vendor frames [22m
+  4   app/Providers/RouteServiceProvider.php:44
+      Illuminate\Routing\RouteRegistrar::group("/home/kyawkyawlin/Laravel_Projects/personal/api/laravel8-api-auth-jwt/routes/api.php")
+
+      [2m+15 vendor frames [22m
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\RouteServiceProvider))
+
+2024-05-08 17:26:22.051 [warning] [Decorations] CAPPING events from decorations provider vscode.git 770
+2024-05-08 17:26:27.077 [warning] [Decorations] CAPPING events from decorations provider vscode.git 771
+2024-05-08 17:26:33.410 [error] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/api.php:18
+     14▕ |
+     15▕ */
+     16▕ 
+     17▕ Route::get('user', [])
+  ➜  18▕
+
+      [2m+3 vendor frames [22m
+  4   app/Providers/RouteServiceProvider.php:44
+      Illuminate\Routing\RouteRegistrar::group("/home/kyawkyawlin/Laravel_Projects/personal/api/laravel8-api-auth-jwt/routes/api.php")
+
+      [2m+15 vendor frames [22m
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\RouteServiceProvider))
+
+2024-05-08 17:26:37.642 [warning] [Decorations] CAPPING events from decorations provider vscode.git 771
+2024-05-08 17:26:42.688 [warning] [Decorations] CAPPING events from decorations provider vscode.git 771
+2024-05-08 17:26:48.019 [warning] [Decorations] CAPPING events from decorations provider vscode.git 772
+2024-05-08 17:26:53.064 [warning] [Decorations] CAPPING events from decorations provider vscode.git 772
+2024-05-08 17:26:58.109 [warning] [Decorations] CAPPING events from decorations provider vscode.git 782
+2024-05-08 17:27:03.135 [warning] [Decorations] CAPPING events from decorations provider vscode.git 783
+2024-05-08 17:27:06.970 [info] ExtensionService#_doActivateExtension porifa.laravel-intelephense, startup: false, activationEvent: 'onLanguage:php'
+2024-05-08 17:27:08.179 [warning] [Decorations] CAPPING events from decorations provider vscode.git 787
+2024-05-08 17:27:13.227 [warning] [Decorations] CAPPING events from decorations provider vscode.git 787
+2024-05-08 17:27:18.270 [warning] [Decorations] CAPPING events from decorations provider vscode.git 789
+2024-05-08 17:27:18.452 [error] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/api.php:18
+     14▕ |
+     15▕ */
+     16▕ 
+     17▕ Route::get('user', [AuthController::class, ])
+  ➜  18▕
+
+      [2m+3 vendor frames [22m
+  4   app/Providers/RouteServiceProvider.php:44
+      Illuminate\Routing\RouteRegistrar::group("/home/kyawkyawlin/Laravel_Projects/personal/api/laravel8-api-auth-jwt/routes/api.php")
+
+      [2m+15 vendor frames [22m
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\RouteServiceProvider))
+
+2024-05-08 17:27:21.719 [error] 
+   ParseError 
+
+  syntax error, unexpected end of file
+
+  at routes/api.php:18
+     14▕ |
+     15▕ */
+     16▕ 
+     17▕ Route::get('user', [AuthController::class, ])
+  ➜  18▕
+
+      [2m+3 vendor frames [22m
+  4   app/Providers/RouteServiceProvider.php:44
+      Illuminate\Routing\RouteRegistrar::group("/home/kyawkyawlin/Laravel_Projects/personal/api/laravel8-api-auth-jwt/routes/api.php")
+
+      [2m+15 vendor frames [22m
+  20  [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\RouteServiceProvider))
+
+2024-05-08 17:27:24.919 [warning] [Decorations] CAPPING events from decorations provider vscode.git 789
+2024-05-08 17:27:30.502 [warning] [Decorations] CAPPING events from decorations provider vscode.git 789
+2024-05-08 17:27:33.869 [error] [porifa.laravel-intelephense] provider FAILED
+2024-05-08 17:27:33.895 [error] SyntaxError: Invalid regular expression: /use (.+)[AuthController;/g: Unterminated character class
+    at new RegExp (<anonymous>)
+    at e.default.getModelClass (/root/.vscode/extensions/porifa.laravel-intelephense-1.25.0/dist/extension.js:1:139786)
+    at e.default.provideCompletionItems (/root/.vscode/extensions/porifa.laravel-intelephense-1.25.0/dist/extension.js:1:138208)
+    at ve.provideCompletionItems (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:105868)
+    at /snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:129046
+    at Ae.s (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:120151)
+    at Ae.$provideCompletionItems (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:129032)
+    at c.S (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5505)
+    at c.Q (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5271)
+    at c.M (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4323)
+    at c.L (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3440)
+    at a.value (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2227)
+    at o.y (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.fire (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+    at u.fire (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14175)
+    at a.value (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8023)
+    at o.y (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.fire (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+    at u.fire (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14175)
+    at MessagePortMain.<anonymous> (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6303)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-05-08 17:27:33.897 [error] [amiralizadeh9480.laravel-extra-intellisense] provider FAILED
+2024-05-08 17:27:33.901 [error] SyntaxError: Invalid regular expression: /use (.+)[AuthController;/g: Unterminated character class
+    at new RegExp (<anonymous>)
+    at k.getModelClass (/root/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.5/dist/extension.js:1:155571)
+    at k.provideCompletionItems (/root/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.5/dist/extension.js:1:153985)
+    at ve.provideCompletionItems (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:105868)
+    at /snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:129046
+    at Ae.s (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:120151)
+    at Ae.$provideCompletionItems (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:129032)
+    at c.S (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5505)
+    at c.Q (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5271)
+    at c.M (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4323)
+    at c.L (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3440)
+    at a.value (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2227)
+    at o.y (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.fire (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+    at u.fire (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14175)
+    at a.value (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8023)
+    at o.y (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.fire (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:877)
+    at u.fire (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14175)
+    at MessagePortMain.<anonymous> (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6303)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-05-08 17:27:42.634 [warning] [Decorations] CAPPING events from decorations provider vscode.git 790
+2024-05-08 17:27:47.675 [warning] [Decorations] CAPPING events from decorations provider vscode.git 789
+2024-05-08 17:27:55.566 [warning] [Decorations] CAPPING events from decorations provider vscode.git 789
+2024-05-08 17:28:00.591 [warning] [Decorations] CAPPING events from decorations provider vscode.git 789
+2024-05-08 17:28:05.621 [warning] [Decorations] CAPPING events from decorations provider vscode.git 789
+2024-05-08 17:32:29.506 [warning] [Decorations] CAPPING events from decorations provider vscode.git 789
+2024-05-08 17:32:40.470 [warning] [Decorations] CAPPING events from decorations provider vscode.git 789
+2024-05-08 17:32:45.507 [warning] [Decorations] CAPPING events from decorations provider vscode.git 789
+2024-05-08 17:32:50.816 [warning] [Decorations] CAPPING events from decorations provider vscode.git 790
+2024-05-08 17:32:58.914 [warning] [Decorations] CAPPING events from decorations provider vscode.git 790
+2024-05-08 17:33:03.953 [warning] [Decorations] CAPPING events from decorations provider vscode.git 790
+2024-05-08 17:37:44.161 [warning] [Decorations] CAPPING events from decorations provider vscode.git 790
+2024-05-08 17:40:38.844 [warning] [Decorations] CAPPING events from decorations provider vscode.git 790
+2024-05-08 17:40:49.004 [warning] [Decorations] CAPPING events from decorations provider vscode.git 790
+2024-05-08 17:42:42.628 [warning] [Decorations] CAPPING events from decorations provider vscode.git 790
+2024-05-08 17:42:48.575 [warning] [Decorations] CAPPING events from decorations provider vscode.git 790
+2024-05-08 17:42:53.608 [warning] [Decorations] CAPPING events from decorations provider vscode.git 790
+2024-05-08 17:42:58.651 [warning] [Decorations] CAPPING events from decorations provider vscode.git 791
+2024-05-08 17:43:04.361 [warning] [Decorations] CAPPING events from decorations provider vscode.git 792
+2024-05-08 17:43:11.372 [warning] [Decorations] CAPPING events from decorations provider vscode.git 792
+2024-05-08 17:43:16.411 [warning] [Decorations] CAPPING events from decorations provider vscode.git 793
+2024-05-08 18:10:50.451 [warning] [Decorations] CAPPING events from decorations provider vscode.git 793
+2024-05-08 18:26:36.465 [warning] [Decorations] CAPPING events from decorations provider vscode.git 793
+2024-05-08 18:26:41.516 [warning] [Decorations] CAPPING events from decorations provider vscode.git 793
+2024-05-08 18:26:46.539 [warning] [Decorations] CAPPING events from decorations provider vscode.git 793
+2024-05-08 18:26:51.692 [warning] [Decorations] CAPPING events from decorations provider vscode.git 795
+2024-05-08 18:27:09.280 [warning] [Decorations] CAPPING events from decorations provider vscode.git 795
+2024-05-08 18:27:37.156 [warning] [Decorations] CAPPING events from decorations provider vscode.git 796
+2024-05-08 18:27:43.297 [warning] [Decorations] CAPPING events from decorations provider vscode.git 796
+2024-05-08 18:27:53.194 [warning] [Decorations] CAPPING events from decorations provider vscode.git 799
+2024-05-08 18:27:58.241 [warning] [Decorations] CAPPING events from decorations provider vscode.git 801
+2024-05-08 18:28:03.284 [warning] [Decorations] CAPPING events from decorations provider vscode.git 814
+2024-05-08 18:28:08.332 [warning] [Decorations] CAPPING events from decorations provider vscode.git 814
+2024-05-08 18:28:18.131 [warning] [Decorations] CAPPING events from decorations provider vscode.git 828
+2024-05-08 18:28:23.180 [warning] [Decorations] CAPPING events from decorations provider vscode.git 841
+2024-05-08 18:28:28.226 [warning] [Decorations] CAPPING events from decorations provider vscode.git 844
+2024-05-08 18:28:33.274 [warning] [Decorations] CAPPING events from decorations provider vscode.git 864
+2024-05-08 18:28:38.312 [warning] [Decorations] CAPPING events from decorations provider vscode.git 864
+2024-05-08 18:28:42.947 [info] ExtensionService#_doActivateExtension damms005.devdb, startup: false, activationEvent: 'onView:devdb'
+2024-05-08 18:28:43.348 [warning] [Decorations] CAPPING events from decorations provider vscode.git 866
+2024-05-08 18:28:48.392 [warning] [Decorations] CAPPING events from decorations provider vscode.git 871
+2024-05-08 18:28:53.416 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1086
+2024-05-08 18:28:58.475 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1374
+2024-05-08 18:29:13.077 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1373
+2024-05-08 18:29:18.125 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1373
+2024-05-08 18:29:23.154 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1389
+2024-05-08 18:29:28.184 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1391
+2024-05-08 18:29:33.217 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1391
+2024-05-08 18:29:38.249 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1392
+2024-05-08 18:29:43.291 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1397
+2024-05-08 18:29:48.337 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1397
+2024-05-08 18:29:53.373 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1400
+2024-05-08 18:29:58.425 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1400
+2024-05-08 18:30:03.472 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1400
+2024-05-08 18:30:08.498 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1411
+2024-05-08 18:30:13.524 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1411
+2024-05-08 18:30:18.557 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1411
+2024-05-08 18:30:22.561 [info] ExtensionService#_doActivateExtension bajdzis.vscode-database, startup: false, activationEvent: '*'
+2024-05-08 18:30:23.583 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2024-05-08 18:30:28.618 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2024-05-08 18:30:33.660 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1415
+2024-05-08 18:30:38.684 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1415
+2024-05-08 18:30:45.867 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1415
+2024-05-08 18:30:50.896 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1415
+2024-05-08 18:30:55.959 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1415
+2024-05-08 18:31:01.004 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1415
+2024-05-08 18:31:06.049 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1415
+2024-05-08 18:31:12.137 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1415
+2024-05-08 18:31:17.185 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1415
+2024-05-08 18:31:22.236 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1415
+2024-05-08 18:31:30.184 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1415
+2024-05-08 18:31:37.974 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1415
+2024-05-08 18:31:43.012 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1415
+2024-05-08 18:31:44.425 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-08 18:31:44.516 [error] Canceled: Canceled
+    at new O (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at a.O [as value] (/snap/code/158/usr/share/code/resources/app/extensions/git/dist/main.js:2:945138)
+    at o.y (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.z (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:730)
+    at o.fire (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:946)
+    at Object.p [as dispose] (/snap/code/158/usr/share/code/resources/app/extensions/git/dist/main.js:2:964222)
+    at /snap/code/158/usr/share/code/resources/app/extensions/git/dist/main.js:2:970260
+    at Array.forEach (<anonymous>)
+    at f.dispose (/snap/code/158/usr/share/code/resources/app/extensions/git/dist/main.js:2:970246)
+    at h.<anonymous> (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3955)
+    at h.dispose (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at h.<anonymous> (/snap/code/158/usr/share/code/resources/app/extensions/git/dist/main.js:2:947395)
+    at h.dispose (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at a (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at f.eb (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9975)
+    at /snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at MessagePortMain.<anonymous> (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6347)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-08 18:31:44.520 [error] Canceled: Canceled
+    at new O (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/snap/code/158/usr/share/code/resources/app/extensions/github/dist/extension.js:2:322969)
+    at /snap/code/158/usr/share/code/resources/app/extensions/github/dist/extension.js:2:323928
+    at a.value (/snap/code/158/usr/share/code/resources/app/extensions/git/dist/main.js:2:1050711)
+    at o.y (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.z (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:730)
+    at o.fire (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:946)
+    at Object.p [as dispose] (/snap/code/158/usr/share/code/resources/app/extensions/git/dist/main.js:2:964222)
+    at /snap/code/158/usr/share/code/resources/app/extensions/git/dist/main.js:2:970260
+    at Array.forEach (<anonymous>)
+    at f.dispose (/snap/code/158/usr/share/code/resources/app/extensions/git/dist/main.js:2:970246)
+    at h.<anonymous> (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3955)
+    at h.dispose (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at h.<anonymous> (/snap/code/158/usr/share/code/resources/app/extensions/git/dist/main.js:2:947395)
+    at h.dispose (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at a (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at f.eb (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9975)
+    at /snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at MessagePortMain.<anonymous> (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6347)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-08 18:31:44.520 [info] Extension host with pid 72755 exiting with code 0

@@ -1,0 +1,161 @@
+2024-05-08 18:31:53.460 [info] Extension host with pid 78538 started
+2024-05-08 18:31:53.460 [info] Skipping acquiring lock for /home/kyawkyawlin/Laravel_Projects/personal/api/laravel8-api-auth-jwt/~/.vscode-root/User/workspaceStorage/ec4afe83256d54d3646f1743bec1ea6c.
+2024-05-08 18:31:53.663 [info] ExtensionService#_doActivateExtension damms005.devdb, startup: false, activationEvent: 'onView:devdb'
+2024-05-08 18:31:53.973 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-08 18:31:53.978 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2024-05-08 18:31:53.982 [info] ExtensionService#_doActivateExtension amiralizadeh9480.laravel-extra-intellisense, startup: false, activationEvent: 'onLanguage:php'
+2024-05-08 18:31:53.985 [info] ExtensionService#_doActivateExtension codingyu.laravel-goto-view, startup: false, activationEvent: 'onLanguage:php'
+2024-05-08 18:31:53.988 [info] ExtensionService#_doActivateExtension glitchbl.laravel-create-view, startup: false, activationEvent: 'onLanguage:php'
+2024-05-08 18:31:53.990 [info] ExtensionService#_doActivateExtension pgl.laravel-jump-controller, startup: false, activationEvent: 'onLanguage:php'
+2024-05-08 18:31:53.995 [info] ExtensionService#_doActivateExtension porifa.laravel-intelephense, startup: false, activationEvent: 'onLanguage:php'
+2024-05-08 18:31:54.001 [info] ExtensionService#_doActivateExtension rifi2k.format-html-in-php, startup: false, activationEvent: 'onLanguage:php'
+2024-05-08 18:31:54.467 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-05-08 18:31:54.481 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-05-08 18:31:54.690 [info] ExtensionService#_doActivateExtension shd101wyy.markdown-preview-enhanced, startup: false, activationEvent: 'onLanguage:markdown'
+2024-05-08 18:31:55.624 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-08 18:31:55.627 [info] ExtensionService#_doActivateExtension bajdzis.vscode-database, startup: true, activationEvent: '*'
+2024-05-08 18:31:55.643 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: true, activationEvent: '*'
+2024-05-08 18:31:55.681 [info] ExtensionService#_doActivateExtension IHunte.laravel-blade-wrapper, startup: true, activationEvent: '*'
+2024-05-08 18:31:55.687 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2024-05-08 18:31:55.814 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-05-08 18:31:55.950 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-08 18:31:55.985 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-08 18:31:56.049 [info] ExtensionService#_doActivateExtension ryannaddy.laravel-artisan, startup: true, activationEvent: 'workspaceContains:**/artisan'
+2024-05-08 18:31:56.653 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1448
+2024-05-08 18:31:56.703 [info] Eager extensions activated
+2024-05-08 18:31:56.727 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1448
+2024-05-08 18:31:56.730 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 18:31:56.732 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-08 18:31:58.600 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1448
+2024-05-08 18:32:03.642 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1448
+2024-05-08 18:32:08.697 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1455
+2024-05-08 18:32:13.743 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1456
+2024-05-08 18:32:18.792 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1461
+2024-05-08 18:32:23.839 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1462
+2024-05-08 18:32:28.888 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1462
+2024-05-08 18:32:33.935 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1462
+2024-05-08 18:32:38.984 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1462
+2024-05-08 18:32:50.313 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1462
+2024-05-08 18:32:55.361 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1462
+2024-05-08 18:32:56.066 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-05-08 18:32:57.093 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:32:57.231 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:32:58.428 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:32:59.393 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:00.178 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:01.378 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:02.221 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:03.934 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:04.025 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1476
+2024-05-08 18:33:05.959 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:06.215 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:09.087 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1476
+2024-05-08 18:33:13.301 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:14.132 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1476
+2024-05-08 18:33:16.303 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:16.892 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:17.349 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:17.739 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:18.165 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:18.668 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:19.840 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1476
+2024-05-08 18:33:24.892 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1476
+2024-05-08 18:33:29.946 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1476
+2024-05-08 18:33:32.637 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-08 18:33:32.936 [error] Error: [UriError]: cannot call joinPath on URI without path
+    at Function.joinPath (/snap/code/158/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:33382)
+    at d._updateImageWatchers (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:664672)
+    at d._updatePreview (/snap/code/158/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension.js:1:663137)
+2024-05-08 18:33:39.069 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1476
+2024-05-08 18:33:44.118 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1476
+2024-05-08 18:33:49.168 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1476
+2024-05-08 18:33:54.221 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1476
+2024-05-08 18:33:59.273 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1476
+2024-05-08 18:34:04.301 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1488
+2024-05-08 18:34:09.334 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1491
+2024-05-08 18:34:14.377 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1491
+2024-05-08 18:34:19.425 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1495
+2024-05-08 18:34:24.474 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1495
+2024-05-08 18:34:29.523 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1495
+2024-05-08 18:34:34.948 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1509
+2024-05-08 18:34:39.979 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1509
+2024-05-08 18:34:45.028 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1512
+2024-05-08 18:34:50.792 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1522
+2024-05-08 18:34:55.837 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1525
+2024-05-08 18:35:00.880 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1527
+2024-05-08 18:35:05.934 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1527
+2024-05-08 18:35:10.966 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1527
+2024-05-08 18:35:16.015 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1529
+2024-05-08 18:35:21.057 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1526
+2024-05-08 18:35:26.102 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1526
+2024-05-08 18:35:31.150 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1526
+2024-05-08 18:35:36.175 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1526
+2024-05-08 18:35:41.219 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1526
+2024-05-08 18:35:46.266 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1526
+2024-05-08 18:36:13.320 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1526
+2024-05-08 18:36:18.369 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1526
+2024-05-08 18:36:23.403 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1528
+2024-05-08 18:36:28.457 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1528
+2024-05-08 18:36:33.501 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1528
+2024-05-08 18:36:38.561 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1528
+2024-05-08 18:36:43.608 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1528
+2024-05-08 18:36:48.637 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1528
+2024-05-08 18:36:58.243 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1528
+2024-05-08 18:37:03.294 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1528
+2024-05-08 18:37:08.343 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1528
+2024-05-08 18:37:15.296 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1528

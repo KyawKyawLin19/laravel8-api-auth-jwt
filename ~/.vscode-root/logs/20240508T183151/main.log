@@ -1,0 +1,5 @@
+2024-05-08 18:31:52.010 [info] update#setState idle
+2024-05-08 18:32:22.012 [info] update#setState checking for updates
+2024-05-08 18:32:22.015 [info] update#setState idle
+2024-05-08 18:49:05.588 [error] ptyHost terminated unexpectedly with code 15
+2024-05-08 18:49:05.605 [warning] [UtilityProcess type: ptyHost, pid: 78587]: unable to kill the process

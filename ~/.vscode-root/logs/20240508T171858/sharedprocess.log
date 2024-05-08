@@ -1,0 +1,235 @@
+2024-05-08 17:19:26.541 [info] Getting Manifest... shd101wyy.markdown-preview-enhanced
+2024-05-08 17:19:26.551 [info] Installing extension: shd101wyy.markdown-preview-enhanced
+2024-05-08 17:19:29.187 [info] Extension signature verification result for shd101wyy.markdown-preview-enhanced: Success. Duration: 671ms.
+2024-05-08 17:19:29.511 [info] Extracted extension to file:///root/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.13: shd101wyy.markdown-preview-enhanced
+2024-05-08 17:19:29.514 [info] Renamed to /root/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.13
+2024-05-08 17:19:29.516 [info] Extracting extension completed. shd101wyy.markdown-preview-enhanced
+2024-05-08 17:19:29.523 [info] Extension installed successfully: shd101wyy.markdown-preview-enhanced
+2024-05-08 17:19:29.600 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 17:24:11.674 [info] Getting Manifest... amiralizadeh9480.laravel-extra-intellisense
+2024-05-08 17:24:11.696 [info] Installing extension: amiralizadeh9480.laravel-extra-intellisense
+2024-05-08 17:24:16.515 [info] Extension signature verification result for amiralizadeh9480.laravel-extra-intellisense: Success. Duration: 3325ms.
+2024-05-08 17:24:16.700 [info] Extracted extension to file:///root/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.5: amiralizadeh9480.laravel-extra-intellisense
+2024-05-08 17:24:16.707 [info] Renamed to /root/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.5
+2024-05-08 17:24:16.713 [info] Extracting extension completed. amiralizadeh9480.laravel-extra-intellisense
+2024-05-08 17:24:16.740 [info] Extension installed successfully: amiralizadeh9480.laravel-extra-intellisense
+2024-05-08 17:24:16.830 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 17:24:43.944 [info] Getting Manifest... codingyu.laravel-goto-view
+2024-05-08 17:24:43.960 [info] Installing extension: codingyu.laravel-goto-view
+2024-05-08 17:24:48.374 [info] Extension signature verification result for codingyu.laravel-goto-view: Success. Duration: 3354ms.
+2024-05-08 17:24:48.438 [info] Extracted extension to file:///root/.vscode/extensions/codingyu.laravel-goto-view-1.3.11: codingyu.laravel-goto-view
+2024-05-08 17:24:48.445 [info] Renamed to /root/.vscode/extensions/codingyu.laravel-goto-view-1.3.11
+2024-05-08 17:24:48.452 [info] Extracting extension completed. codingyu.laravel-goto-view
+2024-05-08 17:24:48.475 [info] Extension installed successfully: codingyu.laravel-goto-view
+2024-05-08 17:24:48.556 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 17:24:49.433 [info] Getting Manifest... onecentlin.laravel5-snippets
+2024-05-08 17:24:49.463 [info] Installing extension: onecentlin.laravel5-snippets
+2024-05-08 17:24:53.481 [info] Extension signature verification result for onecentlin.laravel5-snippets: Success. Duration: 2469ms.
+2024-05-08 17:24:53.589 [info] Extracted extension to file:///root/.vscode/extensions/onecentlin.laravel5-snippets-1.18.0: onecentlin.laravel5-snippets
+2024-05-08 17:24:53.596 [info] Renamed to /root/.vscode/extensions/onecentlin.laravel5-snippets-1.18.0
+2024-05-08 17:24:53.598 [info] Getting Manifest... onecentlin.laravel-blade
+2024-05-08 17:24:53.606 [info] Extracting extension completed. onecentlin.laravel5-snippets
+2024-05-08 17:24:53.614 [info] Installing extension: onecentlin.laravel-blade
+2024-05-08 17:24:53.653 [info] Extension installed successfully: onecentlin.laravel5-snippets
+2024-05-08 17:24:53.754 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 17:24:58.691 [info] Extension signature verification result for onecentlin.laravel-blade: Success. Duration: 3197ms.
+2024-05-08 17:25:01.213 [info] Extracted extension to file:///root/.vscode/extensions/onecentlin.laravel-blade-1.36.0: onecentlin.laravel-blade
+2024-05-08 17:25:01.220 [info] Renamed to /root/.vscode/extensions/onecentlin.laravel-blade-1.36.0
+2024-05-08 17:25:01.224 [info] Extracting extension completed. onecentlin.laravel-blade
+2024-05-08 17:25:01.250 [info] Extension installed successfully: onecentlin.laravel-blade
+2024-05-08 17:25:01.326 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 17:25:02.708 [info] Getting Manifest... onecentlin.laravel-extension-pack
+2024-05-08 17:25:02.724 [info] Installing extension: onecentlin.laravel-extension-pack
+2024-05-08 17:25:03.455 [info] Getting Manifest... editorconfig.editorconfig
+2024-05-08 17:25:03.482 [info] Getting Manifest... mikestead.dotenv
+2024-05-08 17:25:03.543 [info] Getting Manifest... onecentlin.laravel-blade
+2024-05-08 17:25:03.587 [info] Getting Manifest... onecentlin.laravel5-snippets
+2024-05-08 17:25:03.621 [info] Getting Manifest... ryannaddy.laravel-artisan
+2024-05-08 17:25:03.681 [info] Getting Manifest... amiralizadeh9480.laravel-extra-intellisense
+2024-05-08 17:25:03.764 [info] Getting Manifest... codingyu.laravel-goto-view
+2024-05-08 17:25:03.791 [info] Getting Manifest... shufo.vscode-blade-formatter
+2024-05-08 17:25:03.828 [info] Getting Manifest... naoray.laravel-goto-components
+2024-05-08 17:25:03.872 [info] Getting Manifest... ihunte.laravel-blade-wrapper
+2024-05-08 17:25:03.918 [info] Getting Manifest... glitchbl.laravel-create-view
+2024-05-08 17:25:04.032 [info] Getting Manifest... pgl.laravel-jump-controller
+2024-05-08 17:25:04.054 [info] Getting Manifest... damms005.devdb
+2024-05-08 17:25:04.423 [info] Installing extension: editorconfig.editorconfig
+2024-05-08 17:25:04.424 [info] Installing extension: mikestead.dotenv
+2024-05-08 17:25:04.425 [info] Installing extension: ryannaddy.laravel-artisan
+2024-05-08 17:25:04.426 [info] Installing extension: shufo.vscode-blade-formatter
+2024-05-08 17:25:04.427 [info] Installing extension: naoray.laravel-goto-components
+2024-05-08 17:25:04.428 [info] Installing extension: ihunte.laravel-blade-wrapper
+2024-05-08 17:25:04.429 [info] Installing extension: glitchbl.laravel-create-view
+2024-05-08 17:25:04.430 [info] Installing extension: pgl.laravel-jump-controller
+2024-05-08 17:25:04.431 [info] Installing extension: damms005.devdb
+2024-05-08 17:25:13.966 [info] Extension signature verification result for ihunte.laravel-blade-wrapper: Success. Duration: 6820ms.
+2024-05-08 17:25:14.093 [info] Extension signature verification result for ryannaddy.laravel-artisan: Success. Duration: 6972ms.
+2024-05-08 17:25:14.152 [info] Extension signature verification result for onecentlin.laravel-extension-pack: Success. Duration: 7309ms.
+2024-05-08 17:25:14.386 [info] Extracted extension to file:///root/.vscode/extensions/ihunte.laravel-blade-wrapper-1.0.1: ihunte.laravel-blade-wrapper
+2024-05-08 17:25:14.439 [info] Renamed to /root/.vscode/extensions/ihunte.laravel-blade-wrapper-1.0.1
+2024-05-08 17:25:14.480 [info] Extracting extension completed. ihunte.laravel-blade-wrapper
+2024-05-08 17:25:14.530 [info] Extracted extension to file:///root/.vscode/extensions/onecentlin.laravel-extension-pack-1.3.0: onecentlin.laravel-extension-pack
+2024-05-08 17:25:14.565 [info] Renamed to /root/.vscode/extensions/onecentlin.laravel-extension-pack-1.3.0
+2024-05-08 17:25:14.617 [info] Extracting extension completed. onecentlin.laravel-extension-pack
+2024-05-08 17:25:14.619 [info] Extension signature verification result for glitchbl.laravel-create-view: Success. Duration: 7395ms.
+2024-05-08 17:25:14.641 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 17:25:14.900 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 17:25:15.480 [info] Extension signature verification result for naoray.laravel-goto-components: Success. Duration: 7692ms.
+2024-05-08 17:25:15.661 [info] Extracted extension to file:///root/.vscode/extensions/naoray.laravel-goto-components-1.2.0: naoray.laravel-goto-components
+2024-05-08 17:25:15.665 [info] Extracted extension to file:///root/.vscode/extensions/glitchbl.laravel-create-view-0.0.6: glitchbl.laravel-create-view
+2024-05-08 17:25:15.703 [info] Renamed to /root/.vscode/extensions/naoray.laravel-goto-components-1.2.0
+2024-05-08 17:25:15.704 [info] Renamed to /root/.vscode/extensions/glitchbl.laravel-create-view-0.0.6
+2024-05-08 17:25:15.723 [info] Extracting extension completed. naoray.laravel-goto-components
+2024-05-08 17:25:15.728 [info] Extracting extension completed. glitchbl.laravel-create-view
+2024-05-08 17:25:15.832 [info] Extension signature verification result for mikestead.dotenv: Success. Duration: 8142ms.
+2024-05-08 17:25:15.858 [info] Extension signature verification result for editorconfig.editorconfig: Success. Duration: 8219ms.
+2024-05-08 17:25:15.908 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 17:25:16.145 [info] Extracted extension to file:///root/.vscode/extensions/mikestead.dotenv-1.0.1: mikestead.dotenv
+2024-05-08 17:25:16.210 [info] Renamed to /root/.vscode/extensions/mikestead.dotenv-1.0.1
+2024-05-08 17:25:16.210 [info] Extracting extension completed. mikestead.dotenv
+2024-05-08 17:25:16.378 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 17:25:16.685 [info] Extracted extension to file:///root/.vscode/extensions/editorconfig.editorconfig-0.16.4: editorconfig.editorconfig
+2024-05-08 17:25:16.694 [info] Renamed to /root/.vscode/extensions/editorconfig.editorconfig-0.16.4
+2024-05-08 17:25:16.703 [info] Extracting extension completed. editorconfig.editorconfig
+2024-05-08 17:25:16.815 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 17:25:18.366 [info] Extension signature verification result for shufo.vscode-blade-formatter: Success. Duration: 7253ms.
+2024-05-08 17:25:18.881 [info] Extension signature verification result for pgl.laravel-jump-controller: Success. Duration: 7585ms.
+2024-05-08 17:25:19.914 [info] Extension signature verification result for damms005.devdb: Success. Duration: 6575ms.
+2024-05-08 17:25:24.080 [info] Extracted extension to file:///root/.vscode/extensions/ryannaddy.laravel-artisan-0.0.31: ryannaddy.laravel-artisan
+2024-05-08 17:25:24.092 [info] Renamed to /root/.vscode/extensions/ryannaddy.laravel-artisan-0.0.31
+2024-05-08 17:25:24.101 [info] Extracting extension completed. ryannaddy.laravel-artisan
+2024-05-08 17:25:24.203 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 17:25:28.861 [info] Extracted extension to file:///root/.vscode/extensions/pgl.laravel-jump-controller-0.0.33: pgl.laravel-jump-controller
+2024-05-08 17:25:28.873 [info] Renamed to /root/.vscode/extensions/pgl.laravel-jump-controller-0.0.33
+2024-05-08 17:25:28.880 [info] Extracting extension completed. pgl.laravel-jump-controller
+2024-05-08 17:25:28.981 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 17:25:36.226 [info] Extracted extension to file:///root/.vscode/extensions/damms005.devdb-1.7.15-linux-x64: damms005.devdb
+2024-05-08 17:25:36.240 [info] Renamed to /root/.vscode/extensions/damms005.devdb-1.7.15-linux-x64
+2024-05-08 17:25:36.249 [info] Extracting extension completed. damms005.devdb
+2024-05-08 17:25:36.368 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 17:25:44.087 [info] Extracted extension to file:///root/.vscode/extensions/shufo.vscode-blade-formatter-0.24.2: shufo.vscode-blade-formatter
+2024-05-08 17:25:44.094 [info] Renamed to /root/.vscode/extensions/shufo.vscode-blade-formatter-0.24.2
+2024-05-08 17:25:44.100 [info] Extracting extension completed. shufo.vscode-blade-formatter
+2024-05-08 17:25:44.120 [info] Extension installed successfully: ihunte.laravel-blade-wrapper
+2024-05-08 17:25:44.120 [info] Extension installed successfully: onecentlin.laravel-extension-pack
+2024-05-08 17:25:44.121 [info] Extension installed successfully: naoray.laravel-goto-components
+2024-05-08 17:25:44.121 [info] Extension installed successfully: glitchbl.laravel-create-view
+2024-05-08 17:25:44.121 [info] Extension installed successfully: mikestead.dotenv
+2024-05-08 17:25:44.121 [info] Extension installed successfully: editorconfig.editorconfig
+2024-05-08 17:25:44.122 [info] Extension installed successfully: ryannaddy.laravel-artisan
+2024-05-08 17:25:44.122 [info] Extension installed successfully: pgl.laravel-jump-controller
+2024-05-08 17:25:44.122 [info] Extension installed successfully: damms005.devdb
+2024-05-08 17:25:44.123 [info] Extension installed successfully: shufo.vscode-blade-formatter
+2024-05-08 17:25:44.200 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 17:27:05.134 [info] Getting Manifest... porifa.laravel-intelephense
+2024-05-08 17:27:05.150 [info] Installing extension: porifa.laravel-intelephense
+2024-05-08 17:27:06.771 [info] Extension signature verification result for porifa.laravel-intelephense: Success. Duration: 769ms.
+2024-05-08 17:27:06.779 [info] Extracted extension to file:///root/.vscode/extensions/porifa.laravel-intelephense-1.25.0: porifa.laravel-intelephense
+2024-05-08 17:27:06.782 [info] Renamed to /root/.vscode/extensions/porifa.laravel-intelephense-1.25.0
+2024-05-08 17:27:06.783 [info] Extracting extension completed. porifa.laravel-intelephense
+2024-05-08 17:27:06.790 [info] Extension installed successfully: porifa.laravel-intelephense
+2024-05-08 17:27:06.863 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-08 18:30:20.812 [info] Getting Manifest... bajdzis.vscode-database
+2024-05-08 18:30:20.818 [info] Installing extension: bajdzis.vscode-database
+2024-05-08 18:30:22.343 [info] Extension signature verification result for bajdzis.vscode-database: Success. Duration: 639ms.
+2024-05-08 18:30:22.369 [info] Extracted extension to file:///root/.vscode/extensions/bajdzis.vscode-database-2.2.3: bajdzis.vscode-database
+2024-05-08 18:30:22.370 [info] Renamed to /root/.vscode/extensions/bajdzis.vscode-database-2.2.3
+2024-05-08 18:30:22.371 [info] Extracting extension completed. bajdzis.vscode-database
+2024-05-08 18:30:22.375 [info] Extension installed successfully: bajdzis.vscode-database
+2024-05-08 18:30:22.459 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/158/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
